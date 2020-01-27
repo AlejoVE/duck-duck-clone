@@ -2,7 +2,7 @@
 
 ## WireFrame
 
-> [Link](https://wireframe.cc/vTXPmu)
+> [Link](https://wireframe.cc/BUSINN)
 
 ## Steps Plan
 
