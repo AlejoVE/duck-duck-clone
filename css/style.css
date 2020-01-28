@@ -9,7 +9,7 @@ body {
 /*HEADER */
 
 header{
-    background-color:#C0C0C0;
+    background-color:#f7f7f7;
     width: 100%;
 }
 
@@ -21,7 +21,7 @@ header{
 
 #navbar a{
     text-decoration: none;
-    color: dimgrey;
+    color:#6d6d6d;
 }
 
 #navbar li{
@@ -32,7 +32,7 @@ header{
 /*SEARCH*/
 
 #search{
-    background-color: #C0C0C0;
+    background-color: #f7f7f7;
 }
 
 #search img{
@@ -51,21 +51,49 @@ header{
 
 /*INFORMATION*/
 #information{
-    background: #46F246;
+    background: #58b792;
     color: #FFFFFF;
+}
+
+#information button{
+    background: #2c5b49;
 }
 
 /*ADS*/
 #ads{
-    background: #F9A053;
+    background: #f5a339;
     color: #FFFFFF;
+}
+
+#ads button{
+    background: #7a511c;
 }
 
 /*INCOGNITO-MODE*/
 #incognito-mode{
-    background: #726EE1;
+    background: #5f63bd;
     color: #FFFFFF;
 }
+
+#incognito-mode button{
+    background: #2f315e;
+}
+
+/*CHANGE*/
+#change{
+    background: #87cef5;
+    color: #3d5d6e;
+}
+
+#change button{
+    background: #41658d;
+}
+
+#change a{
+    text-decoration: none;
+    color: #3d5d6e;
+}
+
 /*GLOBAL*/
 
 .container img{
@@ -73,8 +101,10 @@ header{
     padding: 50px;
 }
 
-.container{
-    line-height: 25px;
+.container h1{
+    line-height: 45px;
+    font-size: 35px;
+    
 }
 
  .button{
