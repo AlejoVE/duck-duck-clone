@@ -7,8 +7,8 @@ body {
 
 /*HEADER */
 
-header .container{
-    background-color: darkgrey;
+header{
+    background-color:#C0C0C0;
     width: 100%;
 }
 
@@ -24,5 +24,36 @@ header .container{
 #navbar li{
     display: inline;
     padding: 5px;
+}
+
+/*SEARCH*/
+
+#search{
+    background-color: #C0C0C0;
+}
+
+#search img{
+    width: 15%;
+    margin: 0;
+}
+
+#searchbox{
+    width: 50%;
+    height: 40px;
+}
+
+#search button {
+    height: 47px;
+}
+
+/*GLOBAL*/
+
+.container img{
+    width: 75%;
+    padding: 50px;
+}
+
+.container{
+    line-height: 1em;
 }
     
