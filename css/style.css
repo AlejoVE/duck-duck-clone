@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*HEADER */
+
+header .container{
+    background-color: darkgrey;
+    width: 100%;
+}
+
+#navbar ul{
+    list-style: none;
+}
+
+#navbar a{
+    text-decoration: none;
+}
+
+#navbar li{
+    display: inline;
+    padding: 5px;
+}
+    
