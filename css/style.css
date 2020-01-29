@@ -47,6 +47,12 @@ header{
 
 #search button {
     height: 47px;
+    width: 8%;
+}
+
+#search a{
+    text-decoration: none;
+    color: #4a98d5;
 }
 
 /*INFORMATION*/
@@ -96,6 +102,9 @@ header{
 
 /*GLOBAL*/
 
+.container{
+    margin: auto;
+}
 .container img{
     width: 75%;
     padding: 50px;
@@ -108,8 +117,8 @@ header{
 }
 
  .button{
-    width: 60%;
-    height: 40px;
+    width: 35%;
+    height: 50px;
     background-color: mediumblue;
     color: #ffff;
     margin-top: 20px;
