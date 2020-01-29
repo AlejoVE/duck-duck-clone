@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+/*HEADER */
+
+header{
+    background-color:#f7f7f7;
+    width: 100%;
+}
+
+/*NAVBAR*/
+
+#navbar ul{
+    list-style: none;
+}
+
+#navbar a{
+    text-decoration: none;
+    color:#6d6d6d;
+}
+
+#navbar li{
+    display: inline;
+    padding: 5px;
+}
+
+/*SEARCH*/
+
+#search{
+    background-color: #f7f7f7;
+}
+
+#search img{
+    width: 30%;
+    margin: 0;
+}
+
+#searchbox{
+    width: 50%;
+    height: 40px;
+}
+
+#search button {
+    height: 47px;
+    width: 8%;
+}
+
+#search a{
+    text-decoration: none;
+    color: #4a98d5;
+}
+
+/*INFORMATION*/
+#information{
+    background: #58b792;
+    color: #FFFFFF;
+}
+
+#information button{
+    background: #2c5b49;
+}
+
+/*ADS*/
+#ads{
+    background: #f5a339;
+    color: #FFFFFF;
+}
+
+#ads button{
+    background: #7a511c;
+}
+
+/*INCOGNITO-MODE*/
+#incognito-mode{
+    background: #5f63bd;
+    color: #FFFFFF;
+}
+
+#incognito-mode button{
+    background: #2f315e;
+}
+
+/*CHANGE*/
+#change{
+    background: #87cef5;
+    color: #3d5d6e;
+}
+
+#change button{
+    background: #41658d;
+}
+
+#change a{
+    text-decoration: none;
+    color: #3d5d6e;
+}
+
+/*GLOBAL*/
+
+.container{
+    margin: auto;
+}
+.container img{
+    width: 75%;
+    padding: 50px;
+}
+
+.container h1{
+    line-height: 45px;
+    font-size: 35px;
+    
+}
+
+ .button{
+    width: 35%;
+    height: 50px;
+    background-color: mediumblue;
+    color: #ffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
