@@ -10,9 +10,11 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and evaluation script | an empty main `style.css` and an existing evaluation style |
-|  | |  |  |
-| ... | ... | ... | ... |
+| Start | As a student I want to have all my project organized in folders to access it easily | An empty folder | An empty folder for css and images |
+| HTML Content | As a developer I want to create a well structured html code to present a good project to my client | I created an html file and added its complete structure, header, body, footer and information about the website | no changes |
+| Applying styles | As a developer I want to style my page to have a beautiful and responsive website | I added the necessary tags | I added the classes and styles for my website |
+| Accessibility | As a developer I want my website to be accessible so people with vision problems can also use it. | I applied ARIA  | No changes |
+
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
 
 
